@@ -19,7 +19,7 @@ This is the source code for ["Deeply Learned Attributes for Crowded Scene Unders
 
 > [Prototxt]()
 
-> [Motion Channel]()
+> Motion channels
 
 > [Training Data Splits](http://www.ee.cuhk.edu.hk/~jshao/WWWcrowd_files/www_archive.zip)
 
