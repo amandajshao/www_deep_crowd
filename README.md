@@ -22,7 +22,7 @@ This is the source code for ["Deeply Learned Attributes for Crowded Scene Unders
 
 > [Prototxt](https://www.dropbox.com/s/rdkbjhcdx5sa0o3/data_rgbm_all_www_deploy_top_combine_upgrade.prototxt?dl=0)
 
-> Motion channels
+> [Motion channels](https://github.com/amandajshao/www_deep_crowd/blob/master/readme_channel.md)
 
 > [Training Data Splits](http://www.ee.cuhk.edu.hk/~jshao/WWWcrowd_files/www_archive.zip)
 
